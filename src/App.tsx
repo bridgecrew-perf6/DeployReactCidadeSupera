@@ -29,6 +29,9 @@ import Saneamento from './paginas/saneamento/Saneamento';
 import Seguranca from './paginas/seguranca/Seguranca';
 import Mobilidade from './paginas/mobilidade/Mobilidade';
 import SobreNos from './paginas/sobrenos/SobreNos';
+import { Box } from '@material-ui/core';
+import PostCard from './components/estaticos/postCard/PostCard';
+import DirBar from './components/estaticos/lateralDir/DirBar';
 
 function App() {
   
@@ -102,6 +105,19 @@ function App() {
 
           <Route path='/feed'>
             <Feed />
+          </Route>
+
+          <Route path='/feed2'>
+              <SideBar />
+              <Box className='dir-bar'>
+                  <DirBar />
+              </Box>
+              <Box display='flex' className='center'>
+                  <CadastroPost />
+              </Box>
+              <Box display='flex' className='center meio'>
+                  <PostCard />
+              </Box>
           </Route>
 
           <Route path='/perfil'>

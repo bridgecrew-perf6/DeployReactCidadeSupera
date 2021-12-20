@@ -152,7 +152,7 @@ function CadastroPost() {
     }
 
     function back() {
-        history.push('/feed')
+        history.push('/feed2')
     }
 
     return (
