@@ -1,0 +1,37 @@
+.texto1{
+    color:black !important ;
+    text-align: center !important;
+}
+
+.corpo{
+    background-color: #4578ff;
+    box-shadow: 6px 6px !important;
+    border-style: solid;
+
+}
+.corpo1{
+    background-color: #ff0064;
+    box-shadow: 6px 6px !important;
+    border-style: solid;
+    height: 317px !important;
+
+}
+
+.corpo2{
+    background-color: white; 
+    box-shadow: 6px 6px !important;
+    border-style: solid;
+    height: 317px !important;
+}
+
+.missao { 
+    position: relative;
+    height: 80px;
+}
+
+.texto4{
+    color:black !important ;
+    text-align: center !important;
+    font-size: 22px !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+}

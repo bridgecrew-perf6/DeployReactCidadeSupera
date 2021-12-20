@@ -1,0 +1,16 @@
+.center{
+    margin-top: 10px;
+    justify-content: center!important;
+    align-items: center;
+}
+.dir-bar{
+    display: flex-end !important;
+}
+.favorite{
+    margin-left: auto; 
+}
+
+.meio {
+    flex-direction: column-reverse;
+}
+

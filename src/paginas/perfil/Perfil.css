@@ -1,0 +1,26 @@
+.back{
+    background-image: url(https://w7.pngwing.com/pngs/403/18/png-transparent-purple-smoke-ink-desktop-display-resolution-smoke-paint-smoke-color-purple-violet-computer-wallpaper.png);
+    background-size: cover;
+    height: 35vh;
+    width: 100%;
+    position: relative;
+}
+.imgvoltar{
+    width: 90px;
+}
+.lugar-card{
+    display :flex;
+    justify-content: center;
+    align-items: center;
+}
+.tam{
+    width: 500px;
+    margin: 50px;
+}
+.caixa{
+    display: flex;
+}
+
+.space {
+    margin-top: 5px !important;
+}

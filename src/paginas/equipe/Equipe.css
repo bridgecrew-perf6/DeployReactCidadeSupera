@@ -1,0 +1,43 @@
+.textoEquipe {
+    color: #FF0064 !important;
+    text-align: center;
+    font-size: 40px;
+}
+
+.img-container {
+    width: 40vh;
+    min-height: 30vh;
+    border-radius: 50%;
+}
+
+.botao-equipe {
+    border-color: white !important;
+    background-color: #FF0064 !important;
+    color: white !important;
+}
+
+.redeSocial {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 5px !important;
+}
+
+.txtSobre {
+    text-align: center !important;
+    font-weight: bold !important;
+}
+
+.textoTime {
+    text-align: justify !important;
+    color: black !important;
+}
+
+.transitionSize {
+    transition: transform 0.5s;
+}
+
+.transitionSize:hover {
+    transform: scale(1.2);
+    color: #FF0064 !important;
+}

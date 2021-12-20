@@ -1,0 +1,21 @@
+.text-decorator-none{
+    text-decoration: none;
+    color: white;
+}
+
+#navegacao{
+    background-color: #ff0064 !important;
+    background-image: linear-gradient(90deg, #ff0064 0%, #4578ff 100%) !important;
+}
+
+.alinhamento{
+    align-items: center;
+}
+.cursor{
+    cursor: pointer;
+}
+
+.logo {
+    width: cover;
+    height: 40px;
+}

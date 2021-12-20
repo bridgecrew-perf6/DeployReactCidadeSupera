@@ -1,0 +1,32 @@
+
+.barra{
+    padding: 16px;
+    width: 250px;
+    color: #fff;
+    position: fixed;
+    margin-right: 16px;
+    background-color: #ff0064;
+    background-image: linear-gradient(180deg, #ff0064 0%, #fff 100%);
+    min-height: 50vw !important;
+}
+.btn{
+    color: #ff0064;
+    width: 100%;
+}
+.margin-top{
+    margin-top: 10px;
+}
+
+.margin{
+    margin: 10px,10px;
+    color: #fff !important;
+}
+
+.logoSideBar {
+    width: 80% !important;
+    text-align: center !important;
+}
+
+.marginTema{
+    color: #fff !important;
+}

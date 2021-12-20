@@ -1,0 +1,43 @@
+.background1 {
+    background-image: url("https://i.imgur.com/rG7ibgI.png");
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.cardCadastro {
+    background: white;
+    width: 60vh !important;
+    height: 90vh !important;
+    border-radius: 20px;
+}
+
+.botao1 {
+    border-color: white !important;
+    background-color: #FF0064 !important;
+    color: white !important;
+    margin-left: 4px !important;
+}
+
+.btnCancelar {
+    border-color: white !important;
+    background-color: #4578FF !important;
+    color: white !important;
+    margin-right: 4px !important;
+}
+.txt{
+    color: #FF0064 !important;
+}
+
+.textoCadastro {
+    color: rgba(31, 25, 25, 0.815);
+    font-weight: bold !important;
+    text-align: center !important;
+}
+
+.padding {
+    margin-left: 20px !important;
+    margin-top: 10px !important;
+}

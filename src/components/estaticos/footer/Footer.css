@@ -1,0 +1,20 @@
+#Rodape {
+    background-color: black;
+}
+
+.text-decorator-none2{
+    text-decoration: none;
+    color: white;
+}
+
+.txt-footer {
+    color: white !important;
+}
+
+.text-decorator-none2:hover{
+    color: #FF0064 !important;
+}
+
+.bold {
+    font-weight: bold !important;
+}

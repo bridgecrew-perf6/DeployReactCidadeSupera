@@ -1,0 +1,43 @@
+.botaoPostar {
+    border-color: white !important;
+    background-color: #FF0064 !important;
+    color: white !important;
+    padding-left: 50%;
+}
+
+.padding {
+    margin-left: 20px !important;
+    margin-top: 20px !important;
+    object-fit: contain !important;
+}
+
+.root{
+    border: 1px solid #DDD;
+    border-radius: 5%;
+}
+.select{
+    width: 60px;
+}
+
+.tamanho{
+    width: 60px;
+}
+
+.btn{
+    margin-right: 16px;
+}
+
+.cardPubli{
+    width: 108vh;
+    padding-left: -10px !important;
+    align-items: center;
+}
+
+.paddingTema {
+    margin-left: 20px !important;
+    margin-top: 17px !important;
+}
+
+.alinharPost {
+    margin-left: 210px !important;
+}
